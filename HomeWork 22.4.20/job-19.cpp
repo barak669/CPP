@@ -11,7 +11,7 @@ int main()
        
        for (i = 0; i<n; i++)
        {    
-            cout << "n Enter " << (i + 1) << "th Element :";
+            cout << "Enter " << (i + 1) << "th Element :";
             cin >> a[i];
             
             if(a[i]==999)
