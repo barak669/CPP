@@ -24,7 +24,9 @@ while(num!=999)
     
 }
 
-cout<<num<<" "<<max;
+cout<<"The max number is:"<<" "<<max;
 
     return 0;
 }
+
+
